@@ -50,4 +50,6 @@ and (re)compiling the source code.
 
 Patches
 -------
-
+[actualfullscreen](https://dwm.suckless.org/patches/actualfullscreen/)
+[swallow](https://dwm.suckless.org/patches/swallow/)
+[vanitygaps](https://dwm.suckless.org/patches/vanitygaps/)
