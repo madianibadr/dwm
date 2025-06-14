@@ -55,3 +55,5 @@ Patches
 [swallow](https://dwm.suckless.org/patches/swallow/)
 
 [vanitygaps](https://dwm.suckless.org/patches/vanitygaps/)
+
+[bidi](https://dwm.suckless.org/patches/bidi/)
