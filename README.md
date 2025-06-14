@@ -57,3 +57,5 @@ Patches
 [vanitygaps](https://dwm.suckless.org/patches/vanitygaps/)
 
 [bidi](https://dwm.suckless.org/patches/bidi/)
+
+[scratchpads](https://dwm.suckless.org/patches/scratchpads/)
