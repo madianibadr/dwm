@@ -59,3 +59,5 @@ Patches
 [bidi](https://dwm.suckless.org/patches/bidi/)
 
 [scratchpads](https://dwm.suckless.org/patches/scratchpads/)
+
+[restartsig](https://dwm.suckless.org/patches/restartsig/)
